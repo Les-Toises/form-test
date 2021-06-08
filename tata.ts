@@ -1,3 +1,3 @@
 import * from bootstrapsss;
-import * doo;
-import * from data;
+import * gus;
+import * from titi;
